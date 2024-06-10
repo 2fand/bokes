@@ -33,3 +33,9 @@
 [***“宏的替换”***](https://blog.csdn.net/qq_69383179/article/details/139374256?spm=1001.2014.3001.5501)
 
 [***比以前最小的用C语言编译的“hello,world!”程序还小的用C语言编译的“hello,world!”程序***](https://blog.csdn.net/qq_69383179/article/details/139383366?spm=1001.2014.3001.5501)
+
+[***检测五个数是否一样的算法***](https://blog.csdn.net/qq_69383179/article/details/139548181?spm=1001.2014.3001.5501)
+
+[***算法家族之一——二分法***](https://blog.csdn.net/qq_69383179/article/details/139556892?spm=1001.2014.3001.5501)
+
+[***能打印一条虚线的程序***](https://blog.csdn.net/qq_69383179/article/details/139575245?spm=1001.2014.3001.5501) 
