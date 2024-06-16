@@ -39,3 +39,7 @@
 [***算法家族之一——二分法***](https://blog.csdn.net/qq_69383179/article/details/139556892?spm=1001.2014.3001.5501)
 
 [***能打印一条虚线的程序***](https://blog.csdn.net/qq_69383179/article/details/139575245?spm=1001.2014.3001.5501) 
+
+[***C语言猜输赢游戏***](https://blog.csdn.net/qq_69383179/article/details/139697617?spm=1001.2014.3001.5501) 
+
+[***AI绘画工具***](https://blog.csdn.net/qq_69383179/article/details/139716174?spm=1001.2014.3001.5501) 
