@@ -43,3 +43,13 @@
 [***C语言猜输赢游戏***](https://blog.csdn.net/qq_69383179/article/details/139697617?spm=1001.2014.3001.5501) 
 
 [***AI绘画工具***](https://blog.csdn.net/qq_69383179/article/details/139716174?spm=1001.2014.3001.5501) 
+
+[***C语言pow函数简单介绍***](https://blog.csdn.net/qq_69383179/article/details/140039875?spm=1001.2014.3001.5501)
+
+[***能求一个数字的字符数量的程序***](https://blog.csdn.net/qq_69383179/article/details/140063926?spm=1001.2014.3001.5501)
+
+[***随机文本生成器***](https://blog.csdn.net/qq_69383179/article/details/140075839?spm=1001.2014.3001.5501) 
+
+[***什么是strcmp函数***](https://blog.csdn.net/qq_69383179/article/details/140099978?spm=1001.2014.3001.5501)
+
+[***字符串数组赋字符串——strcpy函数***](https://blog.csdn.net/qq_69383179/article/details/140123947?spm=1001.2014.3001.5501)
