@@ -65,3 +65,5 @@
 [***上升与下降***](https://blog.csdn.net/qq_69383179/article/details/140244505?spm=1001.2014.3001.5501)
 
 [***C语言旋转动画***](https://blog.csdn.net/qq_69383179/article/details/140262839?spm=1001.2014.3001.5501)
+
+[***秒与时间转换器***](https://blog.csdn.net/qq_69383179/article/details/140289683?spm=1001.2014.3001.5501)
