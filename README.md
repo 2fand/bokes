@@ -69,3 +69,5 @@
 [***秒与时间转换器***](https://blog.csdn.net/qq_69383179/article/details/140289683?spm=1001.2014.3001.5501)
 
 [***C语言2D游戏***](https://blog.csdn.net/qq_69383179/article/details/140321131?spm=1001.2014.3001.5501)
+
+[***什么是逻辑运算中的短路效应？***](https://blog.csdn.net/qq_69383179/article/details/140345041?spm=1001.2014.3001.5501)
