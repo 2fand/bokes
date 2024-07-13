@@ -73,3 +73,5 @@
 [***什么是逻辑运算中的短路效应？***](https://blog.csdn.net/qq_69383179/article/details/140345041?spm=1001.2014.3001.5501)
 
 [***C语言阶乘(只用逻辑运算中的短路效应判断)***](https://blog.csdn.net/qq_69383179/article/details/140376677?spm=1001.2014.3001.5501)
+
+[***C语言西蒙说游戏***](https://blog.csdn.net/qq_69383179/article/details/140400089?spm=1001.2014.3001.5501)
