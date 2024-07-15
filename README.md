@@ -77,3 +77,5 @@
 [***C语言西蒙说游戏***](https://blog.csdn.net/qq_69383179/article/details/140400089?spm=1001.2014.3001.5501)
 
 [***指针的运算***](https://blog.csdn.net/qq_69383179/article/details/140413591?spm=1001.2014.3001.5501)
+
+[***C语言走马灯文字***](https://blog.csdn.net/qq_69383179/article/details/140435634?spm=1001.2014.3001.5501)
