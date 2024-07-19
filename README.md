@@ -85,3 +85,5 @@
 [***我的原创加密技术——超撒加密***](https://blog.csdn.net/qq_69383179/article/details/140491666?spm=1001.2014.3001.5501)
 
 [***超撒加密2.0***](https://blog.csdn.net/qq_69383179/article/details/140516364?spm=1001.2014.3001.5501)
+
+[***C语言模拟命令提示符***](https://blog.csdn.net/qq_69383179/article/details/140541747?spm=1001.2014.3001.5501)
