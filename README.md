@@ -87,3 +87,5 @@
 [***超撒加密2.0***](https://blog.csdn.net/qq_69383179/article/details/140516364?spm=1001.2014.3001.5501)
 
 [***C语言模拟命令提示符***](https://blog.csdn.net/qq_69383179/article/details/140541747?spm=1001.2014.3001.5501)
+
+[***神奇的操作符“[]”***](https://blog.csdn.net/qq_69383179/article/details/140564528?spm=1001.2014.3001.5501)
