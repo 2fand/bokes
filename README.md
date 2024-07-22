@@ -91,3 +91,5 @@
 [***神奇的操作符“[]”***](https://blog.csdn.net/qq_69383179/article/details/140564528?spm=1001.2014.3001.5501)
 
 [***C语言迷宫***](https://blog.csdn.net/qq_69383179/article/details/140584586?spm=1001.2014.3001.5501)
+
+[***鸡兔同笼求解器***](https://blog.csdn.net/qq_69383179/article/details/140600753?spm=1001.2014.3001.5501)
