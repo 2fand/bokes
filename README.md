@@ -105,3 +105,5 @@
 [***C语言彩虹渐变方块***](https://blog.csdn.net/qq_69383179/article/details/140730049?spm=1001.2014.3001.5501)
 
 [***C语言冰迷宫***](https://blog.csdn.net/qq_69383179/article/details/140745945?spm=1001.2014.3001.5501)
+
+[***C语言百分号打印器***](https://blog.csdn.net/qq_69383179/article/details/140767283?spm=1001.2014.3001.5501)
