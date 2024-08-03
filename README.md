@@ -115,3 +115,5 @@
 [***C语言qsort函数***](https://blog.csdn.net/qq_69383179/article/details/140840239?spm=1001.2014.3001.5501)
 
 [***C语言bsearch函数***](https://blog.csdn.net/qq_69383179/article/details/140862246?spm=1001.2014.3001.5501)
+
+[***C语言atoi函数***](https://blog.csdn.net/qq_69383179/article/details/140884484?spm=1001.2014.3001.5501)
