@@ -125,3 +125,5 @@
 [***函数指针与函数指针数组***](https://blog.csdn.net/qq_69383179/article/details/140943284?spm=1001.2014.3001.5501)
 
 [***malloc函数与free函数***](https://blog.csdn.net/qq_69383179/article/details/140970980?spm=1001.2014.3001.5501)
+
+[***C语言strstr函数***](https://blog.csdn.net/qq_69383179/article/details/141009936?spm=1001.2014.3001.5501)
