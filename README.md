@@ -131,3 +131,5 @@
 [***C语言strpbrk函数***](https://blog.csdn.net/qq_69383179/article/details/141041437?spm=1001.2014.3001.5501)
 
 [***C语言电子画板***](https://blog.csdn.net/qq_69383179/article/details/141085059?spm=1001.2014.3001.5501)
+
+[***C语言tolower函数和toupper函数***](https://blog.csdn.net/qq_69383179/article/details/141100707?spm=1001.2014.3001.5501)
