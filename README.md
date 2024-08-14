@@ -137,3 +137,5 @@
 [***C语言memcpy函数***](https://blog.csdn.net/qq_69383179/article/details/141116690?spm=1001.2014.3001.5501)
 
 [***C语言memmove函数***](https://blog.csdn.net/qq_69383179/article/details/141150813?spm=1001.2014.3001.5501)
+
+[***C语言memcmp函数***](https://blog.csdn.net/qq_69383179/article/details/141179670?spm=1001.2014.3001.5501)
