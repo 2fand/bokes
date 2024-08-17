@@ -143,3 +143,5 @@
 [***比char类型小的变量——位段***](https://blog.csdn.net/qq_69383179/article/details/141205096?spm=1001.2014.3001.5501)
 
 [***C语言enum枚举***](https://blog.csdn.net/qq_69383179/article/details/141235434?spm=1001.2014.3001.5501)
+
+[***C语言union联合***](https://blog.csdn.net/qq_69383179/article/details/141274975?spm=1001.2014.3001.5501)
