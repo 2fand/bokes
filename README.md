@@ -157,3 +157,5 @@
 [***C语言破墙镐对称飞迷宫***](https://blog.csdn.net/qq_69383179/article/details/141407555?spm=1001.2014.3001.5501)
 
 [***C语言占领游戏***](https://blog.csdn.net/qq_69383179/article/details/141457231?spm=1001.2014.3001.5501)
+
+[***C语言offsetof宏***](https://blog.csdn.net/qq_69383179/article/details/141479141?spm=1001.2014.3001.5501)
