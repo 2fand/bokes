@@ -163,3 +163,5 @@
 [***C语言文件迷宫***](https://blog.csdn.net/qq_69383179/article/details/141509760?spm=1001.2014.3001.5501)
 
 [***C语言迷宫制造***](https://blog.csdn.net/qq_69383179/article/details/141545500?spm=1001.2014.3001.5501)
+
+[***C语言sprintf函数和sscanf函数***](https://blog.csdn.net/qq_69383179/article/details/141545500?spm=1001.2014.3001.5501)
