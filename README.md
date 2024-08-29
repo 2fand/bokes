@@ -167,3 +167,5 @@
 [***C语言sprintf函数和sscanf函数***](https://blog.csdn.net/qq_69383179/article/details/141545500?spm=1001.2014.3001.5501)
 
 [***C语言穿墙迷宫***](https://blog.csdn.net/qq_69383179/article/details/141617483?spm=1001.2014.3001.5501)
+
+[***C语言阴阳迷宫***](https://blog.csdn.net/qq_69383179/article/details/141654845?spm=1001.2014.3001.5501)
