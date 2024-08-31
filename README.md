@@ -171,3 +171,5 @@
 [***C语言阴阳迷宫***](https://blog.csdn.net/qq_69383179/article/details/141654845?spm=1001.2014.3001.5501)
 
 [***C语言推箱子迷宫***](https://blog.csdn.net/qq_69383179/article/details/141697325?spm=1001.2014.3001.5501)
+
+[***C语言中的“#”和“##”***](https://blog.csdn.net/qq_69383179/article/details/141731912?spm=1001.2014.3001.5501)
