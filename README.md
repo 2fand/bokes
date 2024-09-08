@@ -177,3 +177,5 @@
 [***C语言中的预处理指令的其中之一——#line***](https://blog.csdn.net/qq_69383179/article/details/141780697?spm=1001.2014.3001.5501)
 
 [***C语言中的预处理指令中的其中一对——#ifdef和#ifndef***](https://blog.csdn.net/qq_69383179/article/details/141780697?spm=1001.2014.3001.5501)
+
+[***C++中的一个标准输出流——cout***](https://blog.csdn.net/qq_69383179/article/details/142008127?spm=1001.2014.3001.5501)
