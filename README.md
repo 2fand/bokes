@@ -181,3 +181,5 @@
 [***C++中的一个标准输出流——cout***](https://blog.csdn.net/qq_69383179/article/details/142008127?spm=1001.2014.3001.5501)
 
 [***C++比大小游戏***](https://blog.csdn.net/qq_69383179/article/details/142269052?spm=1001.2014.3001.5501)
+
+[***C++3D迷宫***](https://blog.csdn.net/qq_69383179/article/details/142298422?spm=1001.2014.3001.5501)
