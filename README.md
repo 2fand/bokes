@@ -38,7 +38,7 @@
 
 [***算法家族之一——二分法***](https://blog.csdn.net/qq_69383179/article/details/139556892?spm=1001.2014.3001.5501)
 
-[***能打印一条虚线的程序***](https://blog.csdn.net/qq_69383179/article/details/139575245?spm=1001.2014.3001.5501) 
+[***能打印出一条虚线的程序***](https://blog.csdn.net/qq_69383179/article/details/139575245?spm=1001.2014.3001.5501) 
 
 [***C语言猜输赢游戏***](https://blog.csdn.net/qq_69383179/article/details/139697617?spm=1001.2014.3001.5501) 
 
@@ -48,7 +48,7 @@
 
 [***能求一个数字的字符数量的程序***](https://blog.csdn.net/qq_69383179/article/details/140063926?spm=1001.2014.3001.5501)
 
-[***随机文本生成器***](https://blog.csdn.net/qq_69383179/article/details/140075839?spm=1001.2014.3001.5501) 
+[***随机文本生成器***](https://blog.csdn.net/qq_69383179/article/details/140075839?spm=1001.2014.3001.5501)
 
 [***什么是strcmp函数***](https://blog.csdn.net/qq_69383179/article/details/140099978?spm=1001.2014.3001.5501)
 
@@ -187,3 +187,5 @@
 [***C++掉血迷宫***](https://blog.csdn.net/qq_69383179/article/details/142310380?spm=1001.2014.3001.5501)
 
 [***C++门迷宫***](https://blog.csdn.net/qq_69383179/article/details/142410158?spm=1001.2014.3001.5501)
+
+[***C++两点成一线***](https://blog.csdn.net/qq_69383179/article/details/142430536?spm=1001.2014.3001.5501)
