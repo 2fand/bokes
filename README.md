@@ -189,3 +189,5 @@
 [***C++门迷宫***](https://blog.csdn.net/qq_69383179/article/details/142410158?spm=1001.2014.3001.5501)
 
 [***C++两点成一线***](https://blog.csdn.net/qq_69383179/article/details/142430536?spm=1001.2014.3001.5501)
+
+[***C++黑暗迷宫***](https://blog.csdn.net/qq_69383179/article/details/142607330?spm=1001.2014.3001.5501)
