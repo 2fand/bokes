@@ -1,4 +1,4 @@
-# 我目前的CSDN博客（以后还会持续更新）
+# CSDN博客（以后可能更在51CTO）
 
 [ **_一点儿也不极端的海龟画图_** ](https://blog.csdn.net/qq_69383179/article/details/137713077?spm=1001.2014.3001.5501)
 
@@ -197,3 +197,11 @@
 [***C++版iwanna1***](https://blog.csdn.net/qq_69383179/article/details/142722909?spm=1001.2014.3001.5501)
 
 [***C++版iwanna2***](https://blog.csdn.net/qq_69383179/article/details/142741900?spm=1001.2014.3001.5501)
+
+[***C++打小怪游戏***](https://blog.csdn.net/qq_69383179/article/details/143806818?spm=1001.2014.3001.5501)
+
+[***C++打小怪游戏1***](https://blog.csdn.net/qq_69383179/article/details/143811547?spm=1001.2014.3001.5501)
+
+[***C++打小怪游戏2***](https://blog.csdn.net/qq_69383179/article/details/143833217?spm=1001.2014.3001.5501)
+
+[***C++打小怪游戏3***](https://blog.csdn.net/qq_69383179/article/details/143919927?spm=1001.2014.3001.5501)
