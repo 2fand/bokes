@@ -205,3 +205,9 @@
 [***C++打小怪游戏2***](https://blog.csdn.net/qq_69383179/article/details/143833217?spm=1001.2014.3001.5501)
 
 [***C++打小怪游戏3***](https://blog.csdn.net/qq_69383179/article/details/143919927?spm=1001.2014.3001.5501)
+
+[***Qt简单迷宫游戏***](https://blog.csdn.net/qq_69383179/article/details/144645713)
+
+# 稀土掘金
+
+[***Qt简单迷宫游戏***](https://juejin.cn/post/7463283436880822298)
