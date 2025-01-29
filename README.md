@@ -1,4 +1,4 @@
-# CSDN博客（以后可能更在51CTO）
+# CSDN博客
 
 [ **_一点儿也不极端的海龟画图_** ](https://blog.csdn.net/qq_69383179/article/details/137713077?spm=1001.2014.3001.5501)
 
@@ -208,6 +208,10 @@
 
 [***Qt简单迷宫游戏***](https://blog.csdn.net/qq_69383179/article/details/144645713)
 
+[***链表的介绍***](https://blog.csdn.net/qq_69383179/article/details/145349359)
+
 # 稀土掘金
 
 [***Qt简单迷宫游戏***](https://juejin.cn/post/7463283436880822298)
+
+[***链表的介绍***](https://juejin.cn/post/7464756728686198838)
