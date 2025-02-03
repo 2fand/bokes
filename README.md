@@ -210,8 +210,12 @@
 
 [***链表的介绍***](https://blog.csdn.net/qq_69383179/article/details/145349359)
 
+[***粗心的连点器***](https://blog.csdn.net/qq_69383179/article/details/145394300)
+
 # 稀土掘金
 
 [***Qt简单迷宫游戏***](https://juejin.cn/post/7463283436880822298)
 
 [***链表的介绍***](https://juejin.cn/post/7464756728686198838)
+
+[***粗心的连点器***](https://juejin.cn/post/7466687603716571199)
