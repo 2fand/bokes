@@ -214,6 +214,8 @@
 
 [***你能像大牛一样用shell完成N次递归吗？***](https://blog.csdn.net/qq_69383179/article/details/145436657?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522d04608fc077d2e430afdd88efd6eee44%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=d04608fc077d2e430afdd88efd6eee44&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-145436657-null-null.142^v101^pc_search_result_base7&utm_term=%E4%BD%A0%E8%83%BD%E5%83%8F%E5%A4%A7%E7%89%9B%E4%B8%80%E6%A0%B7%E7%94%A8shell%E5%AE%8C%E6%88%90N%E6%AC%A1%E9%80%92%E5%BD%92%E5%90%97%EF%BC%9F&spm=1018.2226.3001.4187)
 
+[***黑马都没教过的MySQL窗口函数，我1篇博客就给你讲得比黑马更清楚！***](https://blog.csdn.net/qq_69383179/article/details/145485332)
+
 # 稀土掘金
 
 [***Qt简单迷宫游戏***](https://juejin.cn/post/7463283436880822298)
@@ -223,3 +225,5 @@
 [***粗心的连点器***](https://juejin.cn/post/7466687603716571199)
 
 [***你能像大牛一样用shell完成N次递归吗？***](https://juejin.cn/post/7467728467045400588)
+
+[***黑马都没教过的MySQL窗口函数，我1篇博客就给你讲得比黑马更清楚！***](https://juejin.cn/post/7470711371334565898)
