@@ -226,6 +226,8 @@
 
 [***awk命令——功能强大的文本处理工具***](https://blog.csdn.net/qq_69383179/article/details/147186936?spm=1011.2415.3001.5331)
 
+[***sort命令——排序必定好用的命令***](https://blog.csdn.net/qq_69383179/article/details/147530725?spm=1011.2415.3001.5331)
+
 # 稀土掘金
 
 [***Qt简单迷宫游戏***](https://juejin.cn/post/7463283436880822298)
@@ -247,3 +249,5 @@
 [***sed命令——容易上手而又方便实用的文本编辑命令***](https://blog.csdn.net/qq_69383179/article/details/147010352?spm=1011.2415.3001.5331)
 
 [***awk命令——功能强大的文本处理工具***](https://juejin.cn/post/7494695992877383714)
+
+[***sort命令——排序必定好用的命令***](https://juejin.cn/post/7499088925198909452)
